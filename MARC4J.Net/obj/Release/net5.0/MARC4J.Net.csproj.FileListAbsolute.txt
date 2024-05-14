@@ -1,0 +1,12 @@
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\bin\Release\net5.0\MARC4J.Net.deps.json
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\bin\Release\net5.0\MARC4J.Net.dll
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\bin\Release\net5.0\MARC4J.Net.pdb
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\bin\Release\net5.0\MARC4J.Net.XML
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\MARC4J.Net.Properties.Resources.resources
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\MARC4J.Net.csproj.GenerateResource.cache
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\MARC4J.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\MARC4J.Net.csproj.CoreCompileInputs.cache
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\MARC4J.Net.dll
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\refint\MARC4J.Net.dll
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\MARC4J.Net.pdb
+C:\workspace\libraries externals\teste\MARC4J.Net\MARC4J.Net\obj\Release\net5.0\ref\MARC4J.Net.dll
